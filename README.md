@@ -32,7 +32,7 @@ pip install -r requirements.txt
 2. Run the Flask app:
 
 ```
-flask run
+flask --app main.py run
 ```
 
 The API will now be running on `http://127.0.0.1:5000/`
